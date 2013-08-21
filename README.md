@@ -14,4 +14,5 @@ recursive mode for MAC conversion is optional.
 <br>-h hex value
 <br>This specifies the hex value for converting to either date or 
 time value. Note that the hex value should follow this notation: 
-Ox1234. For the multiple hex values in either a file or a
+Ox1234. For the multiple hex values in either a file or a command line input, we consider only one hex value so the 
+recursive mode for MAC conversion is optional.
